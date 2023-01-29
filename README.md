@@ -1,1 +1,3 @@
-# Kviz-Trenink_OOP
+Kviz-Trenink_OOP
+
+první seznámení s OOP 
